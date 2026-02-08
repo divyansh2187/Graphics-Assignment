@@ -92,7 +92,8 @@ Add your program output screenshots here after running the project.
 ---
 
 ## 👨‍💻 Author
-Divyansh Bhati
+Divyanshu sargara
+
 
 ---
 
